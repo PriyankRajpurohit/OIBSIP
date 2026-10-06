@@ -1,0 +1,11 @@
+Genuine run of main.py
+Date: 2026-10-07
+Input: Delhi
+
+Basic Weather App
+Enter a city name or postal code: 
+Current weather for Delhi, National Capital Territory of Delhi, India
+Temperature: 26.6 °C / 79.9 °F
+Humidity: 78%
+Conditions: Clear sky
+Wind speed: 7.2 km/h
