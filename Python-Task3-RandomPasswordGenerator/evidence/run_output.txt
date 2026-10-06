@@ -1,0 +1,6 @@
+Random Password Generator
+Generated passwords are shown only in this session; they are not saved.
+
+Password length (minimum 8): Include uppercase letters? (y/n): Include lowercase letters? (y/n): Include numbers? (y/n): Include symbols? (y/n): 
+Generated password: [REDACTED BEFORE PUBLICATION]
+Generate another password? (y/n): Goodbye.
