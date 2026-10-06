@@ -1,11 +1,18 @@
 # OIBSIP — Oasis Infobyte Python Programming
 
-This repository contains Python Programming internship tasks for Oasis Infobyte. The Task List requires at least three of the five Python tasks; Beginner and Advanced tiers are both accepted.
+This public repository contains the Python Programming internship projects. The Task List requires at least 3 of 5 Python tasks; Beginner or Advanced tier is accepted.
 
-## Task folders
+## Selected task folders
 
-Each task folder follows the Task List naming convention and includes its source code, a README, and relevant screenshots or output files. The Task 2 folder is named Python-Task2-BMICalculator.
+- **Task 2 — BMI Calculator:** `Python-Task2-BMICalculator/` — program, README, and genuine sample run transcript.
+- **Task 3 — Random Password Generator:** `Python-Task3-RandomPasswordGenerator/` — program, README, and transcript with the generated password redacted.
+- **Task 4 — Basic Weather App:** `Python-Task4-BasicWeatherApp/` — program, README, requirements, and genuine weather run transcript.
 
-## Before submission
+Each task README explains how to run its project. Task 4 uses live weather data, so its values can change between runs.
 
-Run each project and capture genuine screenshots or output. Each completed task also needs a working demo video, a LinkedIn post tagging Oasis Infobyte with #oasisinfobyte, and substantive peer comments on at least two other interns' demos. Submit this repository's link through the Task Submission Form shared by email.
+## Remaining internship steps
+
+- Capture any remaining screenshots and record one end-to-end demo video for each selected task. Start each video with a static 2-second card showing your full name, Python Programming, and the task title.
+- Review and publish a LinkedIn post for each demo, tagging Oasis Infobyte and including `#oasisinfobyte`, `#python`, and `#internship`.
+- Watch two other interns’ demos and leave substantive comments.
+- Submit this repository URL through the Task Submission Form shared by email; check that email for the deadline.
