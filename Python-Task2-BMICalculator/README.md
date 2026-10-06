@@ -41,3 +41,8 @@ These labels and cutoffs match the Oasis Task List. The cutoffs correspond to th
 - main connects input, calculation, and displayed output.
 
 This is the Beginner-tier command-line version. It does not store personal records or provide medical advice.
+
+
+## Evidence
+
+The actual console output from one run using the example values is saved in [evidence/run_output.txt](evidence/run_output.txt). This is one demonstration run; capture a genuine screenshot and record the required demo video before submission.
