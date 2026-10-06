@@ -1,9 +1,0 @@
-BMI Calculator (metric units)
-Enter q at either prompt to quit.
-
-Weight in kilograms: Height in metres: 
-Your BMI is: 22.86
-Category: Normal
-
-BMI is a screening measure, not a diagnosis.
-These categories are for adults aged 20 and older.
